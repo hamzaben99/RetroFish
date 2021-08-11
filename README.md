@@ -11,11 +11,9 @@ In brief, the project goal is to create a centralized fish aquarium. A controlle
 
 ## Team members
 
-- Benmendil Hamza 
-- Boullit Mohamed Fayçal 
-- Elomari Alaoui Ismail  
-- Kini Walid
-- Mechach Hamza
+- Benmendil Hamza
+- Boullit Mohamed Fayçal
+- Elomari Alaoui Ismail
 
 ## Project Arborescence
 
